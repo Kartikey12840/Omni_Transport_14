@@ -28,7 +28,7 @@ export default function LandingPage({ onStartPlanning, onExploreDemo }) {
           {/* Top Pill */}
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-950/80 border border-emerald-500/40 text-emerald-300 text-xs font-semibold shadow-glow-emerald animate-fade-in">
             <Sparkles className="w-3.5 h-3.5 text-cyan-300" />
-            <span> • Intelligent Geospatial Optimization</span>
+            <span>  • Intelligent Geospatial Optimization</span>
           </div>
 
           {/* Main Title & Tagline */}
