@@ -6,7 +6,7 @@
 > **Core Question:** *"Where should the next EV charging station be built, and why?"*
 
 ---
-
+WEBSITE LINK -- https://omnitransport14-omega.vercel.app/
 ## 🚀 Overview
 
 **ChargeOpt AI** is a geospatial decision-support platform designed for EV charging point operators (CPOs), state transport agencies, and urban planners. Instead of simply mapping existing charging stations, ChargeOpt AI evaluates population density, geospatial coverage voids, arterial road accessibility, grid substation headroom, and regional demand proxies to recommend, score, and simulate optimal new charging locations.
